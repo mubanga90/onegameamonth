@@ -7,5 +7,7 @@ I made this game using only my phone! In order to play it you will need an iOS d
 I used FlipaClip for the art and iMaschine for the music.
 
 Pythonista: http://omz-software.com/pythonista/
+
 FlipaClip: http://www.flipaclip.net
+
 iMaschine 2: https://www.native-instruments.com/en/products/maschine/maschine-for-ios/imaschine-2/
